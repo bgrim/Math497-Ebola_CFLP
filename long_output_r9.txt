@@ -1,0 +1,127 @@
+k=0, p=0.05, obj=17016, c=6
+  Bomi, Klay 50 Bed
+  Bong, Suakoko 50 Bed
+  Montserrado, Todee 50 Bed
+k=1, p=0.05, obj=11344, c=2
+  Montserrado, Greater_Monrovia 50 Bed
+  Montserrado, Todee 50 Bed
+k=2, p=0.05, obj=11344, c=14
+  Montserrado, Greater_Monrovia 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+k=3, p=0.05, obj=22688, c=8
+  Grand_Bassa, Commonwealth 50 Bed
+  Lofa, Vahun 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+  Nimba, Garr_Bain 50 Bed
+k=4, p=0.05, obj=11344, c=9
+  Lofa, Foya 50 Bed
+  Montserrado, Todee 50 Bed
+k=5, p=0.05, obj=11344, c=16
+  Bomi, Senjeh 50 Bed
+  Grand_Cape_Mount, Porkpa 50 Bed
+k=6, p=0.05, obj=17016, c=10
+  Lofa, Zorzor 50 Bed
+  Margibi, Gibi 50 Bed
+  Montserrado, Careysburg 50 Bed
+k=7, p=0.05, obj=11344, c=11
+  Margibi, Kakata 100 Bed
+k=8, p=0.05, obj=11344, c=2
+  Montserrado, St._Paul_River 100 Bed
+k=9, p=0.05, obj=11344, c=5
+  Bomi, Senjeh 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+k=0, p=0.1, obj=22688, c=21
+  Lofa, Kolahun 50 Bed
+  Lofa, Zorzor 50 Bed
+  Margibi, Kakata 100 Bed
+k=1, p=0.1, obj=22688, c=16
+  Grand_Cape_Mount, Porkpa 50 Bed
+  Margibi, Firestone 50 Bed
+  Montserrado, Greater_Monrovia 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+k=2, p=0.1, obj=22688, c=16
+  Bomi, Senjeh 50 Bed
+  Lofa, Foya 50 Bed
+  Montserrado, St._Paul_River 100 Bed
+k=3, p=0.1, obj=28360, c=14
+  Bomi, Klay 50 Bed
+  Lofa, Foya 50 Bed
+  Lofa, Kolahun 50 Bed
+  Lofa, Salayea 50 Bed
+  Montserrado, Careysburg 50 Bed
+k=4, p=0.1, obj=39704, c=18
+  Bong, Panta 50 Bed
+  Grand_Bassa, District_#3 50 Bed
+  Lofa, Kolahun 100 Bed
+  Lofa, Quardu_Bondi 50 Bed
+  Montserrado, Commonwealth 50 Bed
+  Montserrado, Todee 50 Bed
+k=5, p=0.1, obj=28360, c=10
+  Lofa, Foya 100 Bed
+  Lofa, Vahun 50 Bed
+  Lofa, Voinjama 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+k=6, p=0.1, obj=28360, c=15
+  Bomi, Klay 50 Bed
+  Bong, Jorquelleh 50 Bed
+  Lofa, Kolahun 50 Bed
+  Montserrado, St._Paul_River 100 Bed
+k=7, p=0.1, obj=39704, c=10
+  Bong, Suakoko 50 Bed
+  Gbarpolu, Bokomu 50 Bed
+  Grand_Cape_Mount, Porkpa 100 Bed
+  Lofa, Vahun 50 Bed
+  Margibi, Firestone 50 Bed
+  Montserrado, Todee 50 Bed
+k=8, p=0.1, obj=22688, c=9
+  Lofa, Kolahun 50 Bed
+  Margibi, Kakata 100 Bed
+  Montserrado, Careysburg 50 Bed
+k=9, p=0.1, obj=34032, c=29
+  Bong, Kpaai 50 Bed
+  Grand_Bassa, Neekreen 50 Bed
+  Grand_Cape_Mount, Porkpa 50 Bed
+  Grand_Cape_Mount, Tewor 50 Bed
+  Lofa, Salayea 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+k=0, p=0.15, obj=45376, c=29
+  Bomi, Suehn_Mecca 50 Bed
+  Bong, Jorquelleh 50 Bed
+  Bong, Suakoko 50 Bed
+  Grand_Cape_Mount, Garwula 50 Bed
+  Grand_Cape_Mount, Golakonneh 50 Bed
+  Lofa, Foya 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+  Montserrado, Todee 50 Bed
+k=1, p=0.15, obj=56720, c=26
+  Bomi, Senjeh 50 Bed
+  Bong, Jorquelleh 50 Bed
+  Bong, Yeallequelleh 50 Bed
+  Grand_Bassa, District_#3 50 Bed
+  Lofa, Kolahun 50 Bed
+  Lofa, Salayea 50 Bed
+  Montserrado, Careysburg 50 Bed
+  Nimba, Doe 50 Bed
+  Nimba, Garr_Bain 50 Bed
+  Nimba, Leewehpea-Mahn 50 Bed
+k=2, p=0.15, obj=39704, c=21
+  Bomi, Senjeh 50 Bed
+  Grand_Cape_Mount, Garwula 50 Bed
+  Lofa, Quardu_Bondi 50 Bed
+  Margibi, Mambah_Kaba 100 Bed
+  Montserrado, Greater_Monrovia 50 Bed
+  Montserrado, St._Paul_River 50 Bed
+k=3, p=0.15, obj=39704, c=8
+  Bong, Yeallequelleh 50 Bed
+  Grand_Cape_Mount, Garwula 50 Bed
+  Lofa, Foya 50 Bed
+  Margibi, Firestone 100 Bed
+  Margibi, Kakata 100 Bed
+k=4, p=0.15, obj=45376, c=33
+  Bong, Jorquelleh 50 Bed
+  Grand_Bassa, District_#3 50 Bed
+  Grand_Bassa, District_#4 50 Bed
+  Montserrado, Careysburg 50 Bed
+  Montserrado, St._Paul_River 100 Bed
+  Montserrado, Todee 50 Bed
+  Nimba, Garr_Bain 50 Bed
